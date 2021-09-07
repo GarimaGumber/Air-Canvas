@@ -25,6 +25,6 @@ python VirtualPaint.py
 ```
 
 ## Screenshots
-![1](https://user-images.githubusercontent.com/58438542/132222040-0fa4c980-a22d-4d2a-b11a-8815d9f2a580.PNG)
+![1](https://user-images.githubusercontent.com/79453688/132341295-35984e99-eb5c-4d13-ba06-36d08b8f873d.PNG)
 
 ![2](https://user-images.githubusercontent.com/58438542/132222326-da8809da-1736-4828-9596-434ec012776b.PNG)
